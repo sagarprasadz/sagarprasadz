@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **javascript**
 
-- 🤝 I’m looking for a **intership**
+- 🤝 I’m looking for a **internship**
 
 - 📫 How to reach me: **sagarprasad429@gmail.com**
 
